@@ -1,2 +1,2 @@
-gitskill.
-reating a new branch is quick and simple.
+#gitskill
+#Creating a new branch is quick and simple.
