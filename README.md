@@ -3,4 +3,6 @@
 # git config
 # git tag
 
-add merge
+add merge 
+fix bug
+
